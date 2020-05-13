@@ -1,2 +1,3 @@
 # Contador de clientes
- App basico para controle de pessoas dentro de estabelecimento
+ App basico para controle de pessoas dentro de estabelecimento 
+ Framework Flutter
